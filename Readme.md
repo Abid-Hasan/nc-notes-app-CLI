@@ -1,6 +1,6 @@
 # Notes-App (CLI)
 
-## A simple command line app built with Node.js to Save, Read, Remove notes.
+## A command-line app built with Node.js to save, read and remove notes.
 
 ### How to use:
 
